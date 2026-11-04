@@ -1,0 +1,16 @@
+dataset_or_condition,metric,expected_value
+Dreaddit,tfidf_feature_coverage,0.680932
+Reddit Title,tfidf_feature_coverage,0.644741
+Reddit Combi,tfidf_feature_coverage,0.681311
+Twitter Full,tfidf_feature_coverage,0.459072
+Twitter NonAdvert,tfidf_feature_coverage,0.421103
+Twitter Full,roberta_roc_auc,0.728
+Twitter NonAdvert,roberta_roc_auc,0.737
+Twitter Full,roberta_pr_auc,0.766
+Twitter NonAdvert,roberta_pr_auc,0.832
+Twitter Full,roberta_positive_recall,0.134
+Twitter NonAdvert,roberta_positive_recall,0.046
+Twitter Full,mnb_positive_recall,0.431
+Twitter NonAdvert,mnb_positive_recall,0.385
+Twitter Full,roberta_length_control_macro_f1_on_truncated_dreaddit,0.733041
+Twitter Full,distilbert_length_control_macro_f1_on_truncated_dreaddit,0.714447

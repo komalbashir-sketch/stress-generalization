@@ -1,0 +1,15 @@
+datasets
+transformers
+accelerate
+evaluate
+torch
+pandas
+numpy
+scikit-learn
+scipy
+statsmodels
+matplotlib
+openpyxl
+pyarrow
+requests
+joblib

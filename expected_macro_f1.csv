@@ -1,0 +1,31 @@
+dataset,model,macro_f1_mean,std_if_reported
+Dreaddit,Logistic Regression,0.722,
+Dreaddit,Multinomial Naive Bayes,0.736,
+Dreaddit,Linear SVM,0.724,
+Dreaddit,Random Forest,0.697,
+Dreaddit,DistilBERT,0.792,0.009
+Dreaddit,RoBERTa,0.822,0.008
+Reddit Title,Logistic Regression,0.612,
+Reddit Title,Multinomial Naive Bayes,0.73,
+Reddit Title,Linear SVM,0.637,
+Reddit Title,Random Forest,0.412,
+Reddit Title,DistilBERT,0.726,0.026
+Reddit Title,RoBERTa,0.77,0.011
+Reddit Combi,Logistic Regression,0.653,
+Reddit Combi,Multinomial Naive Bayes,0.699,
+Reddit Combi,Linear SVM,0.672,
+Reddit Combi,Random Forest,0.604,
+Reddit Combi,DistilBERT,0.773,0.003
+Reddit Combi,RoBERTa,0.8,0.004
+Twitter Full,Logistic Regression,0.482,
+Twitter Full,Multinomial Naive Bayes,0.61,
+Twitter Full,Linear SVM,0.512,
+Twitter Full,Random Forest,0.392,
+Twitter Full,DistilBERT,0.441,0.015
+Twitter Full,RoBERTa,0.459,0.004
+Twitter NonAdvert,Logistic Regression,0.388,
+Twitter NonAdvert,Multinomial Naive Bayes,0.566,
+Twitter NonAdvert,Linear SVM,0.422,
+Twitter NonAdvert,Random Forest,0.294,
+Twitter NonAdvert,DistilBERT,0.329,0.016
+Twitter NonAdvert,RoBERTa,0.328,0.002
