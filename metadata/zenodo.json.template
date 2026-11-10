@@ -1,0 +1,22 @@
+{
+  "title": "Beyond In-Domain Performance: Cross-Dataset and Cross-Platform Generalization of Social Media Stress Classifiers — Reproducibility Code",
+  "upload_type": "software",
+  "description": "Code and reproducibility materials for the PeerJ Computer Science manuscript on cross-dataset and cross-platform generalization of social-media stress classifiers.",
+  "creators": [
+    {"name": "REPLACE_WITH_AUTHOR_1"},
+    {"name": "REPLACE_WITH_AUTHOR_2"},
+    {"name": "REPLACE_WITH_AUTHOR_3"}
+  ],
+  "keywords": [
+    "natural language processing",
+    "domain generalization",
+    "cross-platform transfer",
+    "stress detection",
+    "RoBERTa",
+    "Multinomial Naive Bayes",
+    "external validation",
+    "reproducibility"
+  ],
+  "license": "MIT",
+  "version": "1.0.0"
+}

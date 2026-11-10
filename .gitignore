@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large/generated artifacts
+models/
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+*.joblib
+raw_data/
+private_data/
+
+# Raw social-media text outputs must not be committed
+results/raw_predictions/
+results/*_WITH_TEXT.csv
