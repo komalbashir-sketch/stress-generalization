@@ -12,6 +12,6 @@
 - [ ] If available, add sanitized generated CSV outputs listed in `OUTPUT_MANIFEST.csv`.
 - [ ] Confirm no raw `text` column exists in any result file before public release.
 - [ ] Record exact dataset retrieval date/commit/checksum for the archival release where possible.
-- [ ] Create GitHub release `v1.0.0` (manual GitHub release step still required).
-- [ ] Archive GitHub release in Zenodo.
-- [ ] Insert Zenodo DOI into PeerJ manuscript Data Availability statement.
+- [x] Create GitHub release `v1.0.0`.
+- [x] Archive GitHub release in Zenodo.
+- [x] Insert Zenodo DOI into PeerJ manuscript Data Availability statement.
