@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and archived release."
+title: "Beyond In-Domain Performance: Cross-Dataset and Cross-Platform Generalization of Social Media Stress Classifiers — Reproducibility Code"
+type: software
+version: 1.0.0
+date-released: 2026-11-11
+license: MIT
+authors:
+  - family-names: "Murtaza"
+    given-names: "Amna"
+  - family-names: "Bashir"
+    given-names: "Komal"
+  - family-names: "Tauseef"
+    given-names: "Huma"
+  - family-names: "Kanwal"
+    given-names: "Faria"
+  - family-names: "Rehman"
+    given-names: "Mariam"
+  - family-names: "Afzaal"
+    given-names: "Ayesha"
+repository-code: "https://github.com/komalbashir-sketch/stress-generalization"
