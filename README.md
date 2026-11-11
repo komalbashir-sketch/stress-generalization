@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1445966062.svg)](https://doi.org/10.5281/zenodo.24138377)
+
 # Beyond In-Domain Performance: Cross-Dataset and Cross-Platform Generalization of Social Media Stress Classifiers
 
 Reproducibility repository for the manuscript submitted to **PeerJ Computer Science**.
@@ -115,3 +117,10 @@ Files under `verification/` are **reference targets transcribed from the finaliz
 ## License
 
 Repository code and original documentation are released under the MIT License. Third-party datasets and pretrained model weights remain subject to their original licenses and terms.
+
+## Archived release
+
+PeerJ reproducibility release `v1.0.0` is archived at Zenodo:
+
+- Version DOI: https://doi.org/10.5281/zenodo.24138378
+- Concept DOI (all versions): https://doi.org/10.5281/zenodo.24138377
